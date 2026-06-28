@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Q&A
+    url: https://github.com/Mashed-Potato-Studios/solo-level-public/discussions/categories/q-a
+    about: Ask the community — please use Discussions instead of opening an issue.
+  - name: Ideas
+    url: https://github.com/Mashed-Potato-Studios/solo-level-public/discussions/categories/ideas
+    about: Propose ideas and gather feedback before filing a feature request.
+  - name: Security reports
+    url: https://github.com/Mashed-Potato-Studios/solo-level-public/blob/main/SECURITY.md
+    about: Report vulnerabilities privately — do not file public issues.
